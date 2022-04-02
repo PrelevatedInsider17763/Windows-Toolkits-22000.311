@@ -1,2 +1,8 @@
-spaces:
-  server-1: microsoft.com
+on:
+  push:
+    branches:
+      - 22000_Cobalt
+  
+WINDOWS_TOOLKITS_SETUP:
+	setup:
+		data:
